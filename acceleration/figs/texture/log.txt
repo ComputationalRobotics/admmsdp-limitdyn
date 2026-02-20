@@ -1,0 +1,217 @@
+plot_sig_wave
+plot sig wave... type: 1dc1024 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1dc1024/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+{Unrecognized function or variable 'fig_width'.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('plot_sig_wave>draw_four_items', '/n/home12/ksc19/2025-field/codes/sig-wave/plot_sig_wave.m', 88)" style="font-weight:bold">plot_sig_wave>draw_four_items</a> (<a href="matlab: opentoline('/n/home12/ksc19/2025-field/codes/sig-wave/plot_sig_wave.m',88,0)">line 88</a>)
+    f = figure('Position', [100, 100, fig_width, fig_height], 'Visible', 'on');
+                                      ^^^^^^^^^
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('plot_sig_wave', '/n/home12/ksc19/2025-field/codes/sig-wave/plot_sig_wave.m', 56)" style="font-weight:bold">plot_sig_wave</a> (<a href="matlab: opentoline('/n/home12/ksc19/2025-field/codes/sig-wave/plot_sig_wave.m',56,0)">line 56</a>)
+        draw_four_items(draw_data, img_name);
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+plot_sig_wave
+plot sig wave... type: 1dc1024 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1dc1024/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot_sig_wave
+plot sig wave... type: 1dc1024 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1dc1024/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot_sig_wave
+plot sig wave... type: 1dc1024 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1dc1024/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot_sig_wave
+plot sig wave... type: 1dc1024 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1dc1024/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+<a href="matlab: opentoline('/n/home12/ksc19/2025-field/codes/sig-wave/plot_sig_wave.m',93,1)">93  </a>    X_diff_norm_list = draw_data.forward.X_diff_norm_list;
+length(sig_list)
+
+ans =
+
+        5001
+
+if system_dependent('IsDebugMode')==1, dbcont; end
+plot_sig_wave
+plot sig wave... type: 1dc1024 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1dc1024/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot_sig_wave
+{Error using <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('exist')" style="font-weight:bold">exist</a>
+The first input to exist must be a string scalar or character vector.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('plot_sig_wave', '/n/home12/ksc19/2025-field/codes/sig-wave/plot_sig_wave.m', 26)" style="font-weight:bold">plot_sig_wave</a> (<a href="matlab: opentoline('/n/home12/ksc19/2025-field/codes/sig-wave/plot_sig_wave.m',26,0)">line 26</a>)
+    if ~exist(output_figs_path, "dir")
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+} 
+plot_sig_wave
+<a href="matlab: opentoline('/n/home12/ksc19/2025-field/codes/sig-wave/plot_sig_wave.m',26,1)">26  </a>    if ~exist(output_figs_path, "dir")
+if system_dependent('IsDebugMode')==1, dbquit; end
+plot_sig_wave
+plot sig wave... type: 1dc1024 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1dc1024/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: 1et2048 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1et2048/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: 1tc2048 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1tc2048/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: cancer100 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/cancer100/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: cnhil10 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/cnhil10/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: foot 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/foot/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: G40mb 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/G40mb/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: G48mb 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/G48mb/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: G48mc 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/G48mc/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: hand 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/hand/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neosfbr25 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neosfbr25/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neosfbr30e8 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neosfbr30e8/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neu1g 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neu1g/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neu2g 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neu2g/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neu3g 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neu3g/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: r12000 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/r12000/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: swissroll 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/swissroll/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: texture 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/texture/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot_sig_wave
+plot sig wave... type: 1dc1024 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1dc1024/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: 1et2048 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1et2048/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: 1tc2048 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1tc2048/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: cancer100 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/cancer100/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: cnhil10 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/cnhil10/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: foot 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/foot/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: G40mb 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/G40mb/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: G48mb 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/G48mb/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: G48mc 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/G48mc/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: hand 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/hand/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neosfbr25 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neosfbr25/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neosfbr30e8 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neosfbr30e8/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neu1g 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neu1g/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neu2g 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neu2g/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neu3g 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neu3g/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: r12000 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/r12000/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: swissroll 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/swissroll/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: texture 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/texture/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot_sig_wave
+plot sig wave... type: 1dc1024 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1dc1024/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: 1et2048 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1et2048/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: 1tc2048 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/1tc2048/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: cancer100 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/cancer100/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: cnhil10 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/cnhil10/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: foot 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/foot/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: G40mb 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/G40mb/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: G48mb 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/G48mb/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: G48mc 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/G48mc/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: hand 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/hand/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neosfbr25 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neosfbr25/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neosfbr30e8 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neosfbr30e8/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neu1g 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neu1g/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neu2g 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neu2g/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: neu3g 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/neu3g/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: r12000 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/r12000/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: swissroll 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/swissroll/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000
+plot sig wave... type: texture 
+
+Loaded /n/netscratch/hankyang_lab/Lab/ksc19/2025-field/codes/sig-wave/data/texture/sig-wave/draw_data_Ampl=10_N=20000.mat: Ampl=10, N=20000

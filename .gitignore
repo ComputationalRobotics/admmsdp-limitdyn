@@ -1,0 +1,24 @@
+codes/data/
+codes/figs/
+papers/
+data/
+logs/
+errs/
+# figs/
+ES254-course-project/
+
+*main.aux
+*main.fdb_latexmk
+*main.fls
+*main.log
+*main.out
+*main.synctex.gz
+*main.pdf
+*main.bbl
+*main.blg
+*.tar.gz
+*main.brf
+*.DS_Store
+
+*.asv
+exp_TODO.numbers
